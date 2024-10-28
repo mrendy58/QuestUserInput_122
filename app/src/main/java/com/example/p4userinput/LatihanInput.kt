@@ -58,7 +58,7 @@ fun LatihanInput(
             keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Text)
         )
 
-
+        // memilih jenis kelamin
         Text(text = "Jenis Kelamin:")
         Row(
             verticalAlignment = Alignment.CenterVertically,
